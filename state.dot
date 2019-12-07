@@ -1,3 +1,4 @@
 digraph {
+	node[color=blue]
   a -> b -> c
 }
