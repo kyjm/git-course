@@ -1,4 +1,3 @@
 digraph {
   untracked -> tracked;
-  tracked -> commited;
 }
