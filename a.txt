@@ -2,3 +2,4 @@ hello
 world
 !!master submit
 !! merge
+!! merge
